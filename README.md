@@ -18,6 +18,7 @@ A 'project' about client communication, planning and workflow management
 
 ## Client info
 Name: ZikFreak
+
 Service: manages renting of music studios in Brussels
 
 ### Functionality:
@@ -30,3 +31,6 @@ Service: manages renting of music studios in Brussels
     - logout
     - place offers for renting
     - contact admins
+
+### Resources:
+- Site UML: https://lucid.app/lucidchart/95baebd0-0be9-4878-a3a2-e68d7620b5f4/edit
