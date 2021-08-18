@@ -8,9 +8,9 @@ A 'project' about client communication, planning and workflow management
   - An admin section to manage the studios
   - It is important to specify the maximum noise allowed in the studio, and also the space and proximity
   - To make it easier to search for studios by noise, a user can add instruments to its profile, and the result adapts as follows
-- [ ] Scope the project
-- [ ] Define User functionalities (login, logout, delete, ...)
-- [ ] Prepare a UML diagram (for both navigations and actions)
+- [x] Scope the project
+- [x] Define User functionalities (login, logout, delete, ...)
+- [x] Prepare a UML diagram (for both navigations and actions) Note, still W.I.P
 - [ ] Prepare a wireframe of the website with for example balsamiq
 - [ ] Prepare a moqup of the website using a design tool such as Figma
 - [ ] Communicate the endresult with the client
