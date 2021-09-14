@@ -11,10 +11,10 @@ A 'project' about client communication, planning and workflow management
 - [x] Scope the project
 - [x] Define User functionalities (login, logout, delete, ...)
 - [x] Prepare a UML diagram (for both navigations and actions) Note, still W.I.P
-- [ ] Prepare a wireframe of the website with for example balsamiq
-- [ ] Prepare a moqup of the website using a design tool such as Figma
+- [x] Prepare a wireframe of the website with for example balsamiq
+- [x] Prepare a moqup of the website using a design tool such as Figma
 - [ ] Communicate the endresult with the client
-- [ ] Add a quality readme
+- [x] Add a quality readme
 
 ## Client info
 Name: ZikFreak
